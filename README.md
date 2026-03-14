@@ -1,16 +1,12 @@
-# <div align="center">⚡ Hey, I'm Jash ⚡</div>
-
 <div align="center">
+
+# ⚡ Hey, I'm Jash ⚡
 
 ### 💻 Computer Science Engineer
 
 ### 🚀 Building cool stuff with code
 
-</div>
-
----
-
-<div align="center">
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jasxhn\&color=blueviolet\&style=for-the-badge)
 
@@ -23,36 +19,51 @@
 * 🧩 Strong interest in **Data Structures & Algorithms**
 * ⚙️ Building **Full Stack Applications**
 * 🚀 Learning every day to build **powerful systems**
+* 🐧 Love working with **Linux & the Terminal**
 * 💡 Passionate about **problem solving and scalable tech**
+* 🤖 Exploring **AI Prompting & developer productivity**
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+## 💻 Languages
 
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
 
-### Frontend
+---
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge\&logo=tailwind-css)
+## 🎨 Frontend
 
-### Backend
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge\&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge\&logo=tailwind-css)
 
-![Node.js](https://img.shields.io/badge/NodeJS-black?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+---
 
-### Database
+## ⚙️ Backend
 
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge\&logo=mongodb)
+![Node.js](https://img.shields.io/badge/NodeJS-000000?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
 
-### Tools
+---
 
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge\&logo=postman)
+## 🗄 Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge\&logo=mongodb)
+
+---
+
+## 🧰 Tools & Environment
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge\&logo=postman)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge\&logo=gnubash)
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge\&logo=windowsterminal)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge)
+![AI Prompting](https://img.shields.io/badge/AI%20Prompting-000000?style=for-the-badge)
 
 ---
 
@@ -84,6 +95,7 @@
 Grinding DSA
 Building MERN Projects
 Learning scalable backend systems
+Mastering Linux + Terminal workflow
 ```
 
 ---
