@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Hey, I'm Jash ⚡
+# ⚡ Hey, I'm Jashan ⚡
 
 ### 💻 Computer Science Engineer
 
