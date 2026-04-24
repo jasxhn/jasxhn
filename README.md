@@ -85,8 +85,22 @@
 
 # 🚀 Current Focus
 
-```txt
-Grinding DSA
-Building MERN Projects
-Learning scalable backend systems
-Mastering Linux + Terminal workflow
+<p align="center">
+
+✨ Grinding Data Structures & Algorithms  
+🚀 Building MERN Stack Projects  
+🧠 Leveling up problem-solving mindset  
+
+</p>
+
+---
+
+# 🌱 Coming Soon
+
+<p align="center">
+
+⚡ TypeScript Mastery  
+🏗️ System Design (Scalable Systems)  
+🔥 Advanced Backend Engineering  
+
+</p>
