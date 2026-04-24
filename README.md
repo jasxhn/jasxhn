@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./bannerGithub.png" width="100%" />
+</p>
+
 <div align="center">
 
 # ⚡ Hey, I'm Jashan ⚡
@@ -46,6 +50,7 @@
 
 ## 🗄 Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
 
 ---
 
