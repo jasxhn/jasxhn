@@ -1,110 +1,106 @@
-<p align="center">  
-  <img src="./bannerGithub.png" width="100%" />  
-</p>  <div align="center">  ⚡ Hey, I'm Jashan ⚡
+<p align="center">
+  <img src="./bannerGithub.png" width="100%" />
+</p>
 
-💻 Computer Science Engineer
+<div align="center">
 
-🚀 Building cool stuff with code
+# ⚡ Hey, I'm Jashan ⚡
 
-<br>  
+### 💻 Computer Science Engineer  
+### 🚀 Building cool stuff with code  
 
-</div>  
----
+<br>
 
-🧠 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=jasxhn&color=blueviolet&style=for-the-badge)
 
-🧩 Strong interest in Data Structures & Algorithms
-
-⚙️ Building Full Stack Applications
-
-🚀 Learning every day to build powerful systems
-
-🐧 Love working with Linux & the Terminal
-
-💡 Passionate about problem solving and scalable tech
-
-🤖 Exploring AI Prompting & developer productivity
-
-
+</div>
 
 ---
 
-🛠 Tech Stack
+# 🧠 About Me
 
-💻 Languages
-
-
-
-
-
----
-
-🎨 Frontend
-
-
-
-
+- 🧩 Strong interest in **Data Structures & Algorithms**
+- ⚙️ Building **Full Stack Applications**
+- 🚀 Learning every day to build **powerful systems**
+- 🐧 Love working with **Linux & the Terminal**
+- 💡 Passionate about **problem solving and scalable tech**
+- 🤖 Exploring **AI Prompting & developer productivity**
 
 ---
 
-⚙️ Backend
+# 🛠 Tech Stack
 
-
-
-
-
----
-
-🗄 Database
-
-
-
-
+## 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 
 ---
 
-🧰 Tools & Environment
-
-
-
-
-
-
-
-
-
-
+## 🎨 Frontend
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css)
 
 ---
 
-📊 GitHub Stats
+## ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=jasxhn&show_icons=true&theme=tokyonight" height="180"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasxhn&layout=compact&theme=tokyonight" height="180"/>  
-</p>  
 ---
 
-🔥 Contribution Streak
+## 🗄 Database
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
 
-<p align="center">  
-  <img src="https://streak-stats.demolab.com?user=jasxhn&theme=tokyonight&border_radius=5"/>  
-</p>  
 ---
 
-🚀 Current Focus
+## 🧰 Tools & Environment
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash)
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windowsterminal)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge)
+![AI Prompting](https://img.shields.io/badge/AI%20Prompting-000000?style=for-the-badge)
 
-<p align="center">  ✨ Grinding Data Structures & Algorithms
-🚀 Building MERN Stack Projects
-🧠 Leveling up problem-solving mindset
-
-</p>  
 ---
 
-🌱 Coming Soon
+# 📊 GitHub Stats
 
-<p align="center">  ⚡ TypeScript Mastery
-🏗️ System Design (Scalable Systems)
-🔥 Advanced Backend Engineering
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jasxhn&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasxhn&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
-</p>  In this can you add some animation or something like gif of pixel boy coding?
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jasxhn&theme=tokyonight&border_radius=5"/>
+</p>
+
+---
+
+# 🚀 Current Focus
+
+<p align="center">
+
+✨ Grinding Data Structures & Algorithms  
+🚀 Building MERN Stack Projects  
+🧠 Leveling up problem-solving mindset  
+
+</p>
+
+---
+
+# 🌱 Coming Soon
+
+<p align="center">
+
+⚡ TypeScript Mastery  
+🏗️ System Design (Scalable Systems)  
+🔥 Advanced Backend Engineering  
+
+</p>
