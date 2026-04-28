@@ -6,6 +6,10 @@
 
 # ⚡ Hey, I'm Jashan ⚡
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Linux+Enthusiast;Building+Real+Systems;Always+Learning+🚀">
+</p>
+
 ### 💻 Computer Science Engineer  
 ### 🚀 Building cool stuff with code  
 
