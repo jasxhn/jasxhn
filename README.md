@@ -6,17 +6,9 @@
 
 # ⚡ Hey, I'm Jashan ⚡
 
-<h3 align="center">
-  <span style="color:#00BFFF;">💻 Computer Science Engineer</span>
-</h3>
-
-<h3 align="center">
-  <span style="color:#32CD32;">🚀 Building cool stuff with code</span>
-</h3>
-
-<h3 align="center">
-  <span style="color:#BA55D3;">🔥 Always learning, always creating</span>
-</h3>  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=28&center=true&vCenter=true&width=700&lines=💻+Computer+Science+Engineer;🚀+Building+cool+stuff+with+code;🔥+Always+learning,+always+creating" />
+</p>
 
 <br>
 
