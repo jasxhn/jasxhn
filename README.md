@@ -6,8 +6,17 @@
 
 # ⚡ Hey, I'm Jashan ⚡
 
-### 💻 Computer Science Engineer  
-### 🚀 Building cool stuff with code  
+<h3 align="center">
+  <span style="color:#00BFFF;">💻 Computer Science Engineer</span>
+</h3>
+
+<h3 align="center">
+  <span style="color:#32CD32;">🚀 Building cool stuff with code</span>
+</h3>
+
+<h3 align="center">
+  <span style="color:#BA55D3;">🔥 Always learning, always creating</span>
+</h3>  
 
 <br>
 
