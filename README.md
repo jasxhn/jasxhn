@@ -80,8 +80,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasxhn&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasxhn&layout=compact&theme=tokyonight" height="180"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jasxhn&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasxhn&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
