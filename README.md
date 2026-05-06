@@ -4,7 +4,17 @@
 
 <div align="center">
 
-# ⚡ Hey, I'm Jashan ⚡
+<h1 align="center">
+  <span style="
+    background: linear-gradient(90deg, #00F5FF, #8A2BE2, #00FF99);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 3rem;
+    font-weight: bold;
+  ">
+    Hey, I'm Jashan
+  </span>
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=28&center=true&vCenter=true&width=700&lines=💻+Computer+Science+Engineer;🚀+Building+cool+stuff+with+code;🔥+Always+learning,+always+creating" />
