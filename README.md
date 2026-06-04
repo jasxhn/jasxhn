@@ -2,107 +2,180 @@
   <img src="./bannerGithub.png" width="100%" />
 </p>
 
-<div align="center">
+<h1 align="center">🚀 Jashan Singh</h1>
 
-<h1 align="center">
-  <span style="
-    background: linear-gradient(90deg, #00F5FF, #8A2BE2, #00FF99);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-size: 3rem;
-    font-weight: bold;
-  ">
-    Hey, I'm Jashan
-  </span>
-</h1>
+<h3 align="center">
+Full Stack Developer • Computer Science Engineering Student • Linux Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=28&center=true&vCenter=true&width=700&lines=💻+Computer+Science+Engineer;🚀+Building+cool+stuff+with+code;🔥+Always+learning,+always+creating" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Full+Stack+Developer;Linux+Power+User;DSA+Enthusiast;Building+Cool+Stuff+with+Code;Always+Learning+Something+New" />
 </p>
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=jasxhn&color=blueviolet&style=for-the-badge)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jasxhn&style=for-the-badge&color=blueviolet"/>
+</p>
 
 ---
 
 # 🧠 About Me
 
-- 🧩 Strong interest in **Data Structures & Algorithms**
-- ⚙️ Building **Full Stack Applications**
-- 🚀 Learning every day to build **powerful systems**
-- 🐧 Love working with **Linux & the Terminal**
-- 💡 Passionate about **problem solving and scalable tech**
-- 🤖 Exploring **AI Prompting & developer productivity**
+```css
+Frontend  -> React • TypeScript • CSS
+Backend   -> Node.js • Express
+Database  -> MongoDB • PostgreSQL
+Tools     -> Git • Linux • Bash • Postman
+Learning  -> DSA • System Design • AI
+```
+
+* 💻 Computer Science Engineering Student
+* 🚀 Passionate about building scalable applications
+* 🧠 Strong interest in Data Structures & Algorithms
+* 🐧 Linux lover and terminal enjoyer
+* ⚡ Exploring AI and Developer Productivity
+* 🔥 Always learning and building
 
 ---
 
 # 🛠 Tech Stack
 
-## 💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
+## Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,js,ts" />
+</p>
+
+## Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+## Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
+
+## Tools & Environment
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,postman,vscode" />
+</p>
 
 ---
 
-## 🎨 Frontend
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+# 📊 GitHub Statistics
 
----
+<p align="center">
 
-## ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jasxhn&show_icons=true&theme=tokyonight&hide_border=true"/>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasxhn&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 🗄 Database
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
-
----
-
-## 🧰 Tools & Environment
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash)
-![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windowsterminal)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge)
-![AI Prompting](https://img.shields.io/badge/AI%20Prompting-000000?style=for-the-badge)
+</p>
 
 ---
 
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jasxhn&theme=tokyonight&border_radius=5"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jasxhn&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🚀 Current Focus
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jasxhn&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=jasxhn&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+</p>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Current_Mission:
+  - Master Data Structures & Algorithms
+  - Build Production-Level MERN Projects
+  - Improve TypeScript Skills
+  - Learn System Design
+  - Contribute to Open Source
+```
+
+---
+
+# 🌱 Learning Roadmap
+
+### 2026 Goals
+
+* 🚀 Software Engineering Internship
+* ⚡ TypeScript Mastery
+* 🏗️ System Design Fundamentals
+* 🔥 Advanced Backend Engineering
+* 🤖 AI-Powered Applications
+* ☁️ Cloud & DevOps Basics
+
+---
+
+# 🚀 Featured Projects
+
+```bash
+📦 Full Stack Applications
+📦 REST APIs
+📦 Authentication Systems
+📦 Database Driven Projects
+📦 AI Experiments
+📦 Linux Utilities
+```
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jasxhn/jasxhn/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 📬 Connect With Me
 
 <p align="center">
 
-✨ Grinding Data Structures & Algorithms  
-🚀 Building MERN Stack Projects  
-🧠 Leveling up problem-solving mindset  
+<a href="https://github.com/jasxhn">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
 </p>
 
 ---
 
-# 🌱 Coming Soon
-
 <p align="center">
 
-⚡ TypeScript Mastery  
-🏗️ System Design (Scalable Systems)  
-🔥 Advanced Backend Engineering  
+✨ "Build. Learn. Improve. Repeat."
 
 </p>
