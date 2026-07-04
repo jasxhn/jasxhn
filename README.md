@@ -31,7 +31,7 @@ I am a Computer Science Engineering student focused on building scalable backend
 ## 🚀 Featured Projects
 
 ### 💬 [NodeChat](https://github.com/jasxhn/NodeChat)
-**Live Demo:** [https://nodechat-bhzk.onrender.com](https://nodechat-bhzk.onrender.com/)
+**Live Demo:** (https://nodechat-bhzk.onrender.com/)
 **Real-Time Chat Application**
 
 * Built a full-stack real-time chat application with secure user authentication and instant messaging.
@@ -42,7 +42,7 @@ I am a Computer Science Engineering student focused on building scalable backend
 
 ### 📝 [MERN Notes App](https://github.com/jasxhn/MERN-NotesApp)
 **Full Stack Notes Management Application**
-**Live Demo:** [https://nodechat-bhzk.onrender.com](https://mern-notesapp-ym8r.onrender.com/login)
+**Live Demo:** (https://mern-notesapp-ym8r.onrender.com/login)
 
 * Developed a responsive notes application using the MERN stack with secure user authentication.
 * Implemented CRUD functionality for creating, updating, deleting, and organizing personal notes.
