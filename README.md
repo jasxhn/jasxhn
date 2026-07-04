@@ -41,8 +41,8 @@ I am a Computer Science Engineering student focused on building scalable backend
 * *Tech Stack:* MongoDB, Express.js, React, Node.js, Socket.IO, JWT
 
 ### 📝 [MERN Notes App](https://github.com/jasxhn/MERN-NotesApp)
-**Full Stack Notes Management Application**
 **Live Demo:** (https://mern-notesapp-ym8r.onrender.com/login)
+**Full Stack Notes Management Application**
 
 * Developed a responsive notes application using the MERN stack with secure user authentication.
 * Implemented CRUD functionality for creating, updating, deleting, and organizing personal notes.
