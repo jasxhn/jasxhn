@@ -30,23 +30,25 @@ I am a Computer Science Engineering student focused on building scalable backend
 
 ## 🚀 Featured Projects
 
-### 🖥️ [CLI FileSystem](https://github.com/jasxhn/Cli-FileSystem)
+### 💬 [NodeChat](https://github.com/jasxhn/NodeChat)
+**Live Demo:** [https://nodechat-bhzk.onrender.com](https://nodechat-bhzk.onrender.com/)
+**Real-Time Chat Application**
 
-**Command-Line File System Simulator**
-
-* Built a Node.js-based CLI application that simulates core file system operations through terminal commands.
-* Implemented file and directory management features, including creation, deletion, navigation, and content manipulation.
-* Designed an interactive command parser with robust error handling and a user-friendly terminal experience.
-* *Tech Stack:* Node.js, JavaScript, CLI, File System (fs) Module
+* Built a full-stack real-time chat application with secure user authentication and instant messaging.
+* Implemented one-to-one messaging with persistent chat history using MongoDB and Socket.IO for real-time communication.
+* Designed a modern, responsive user interface with protected routes and seamless authentication using JWT.
+* Deployed the application on Render for live access and integrated a scalable backend architecture.
+* *Tech Stack:* MongoDB, Express.js, React, Node.js, Socket.IO, JWT
 
 ### 📝 [MERN Notes App](https://github.com/jasxhn/MERN-NotesApp)
-
 **Full Stack Notes Management Application**
+**Live Demo:** [https://nodechat-bhzk.onrender.com](https://mern-notesapp-ym8r.onrender.com/login)
 
 * Developed a responsive notes application using the MERN stack with secure user authentication.
 * Implemented CRUD functionality for creating, updating, deleting, and organizing personal notes.
 * Integrated JWT-based authentication and protected routes to ensure secure access to user data.
 * *Tech Stack:* MongoDB, Express.js, React, Node.js, JWT
+
 
 ---
 
