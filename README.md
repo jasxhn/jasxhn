@@ -55,8 +55,7 @@ I am a Computer Science Engineering student focused on building scalable backend
 
 ## 🌱 Currently Exploring
 *   🏗️ **System Design:** Microservices, caching strategies, and load balancing.
-*   🤖 **AI Engineering:** Leveraging LLMs and developer productivity tools.
-*   ☁️ **Cloud Infrastructure:** Core fundamentals of AWS and containerization.
-
+*   ☁️ **TailsWind CSS:** CSS Utility for fast development of React Apps.
+*   🤖 **TypeScript:** Error Free backend and frontend Development to reduce Runtime errors.
 ---
 
