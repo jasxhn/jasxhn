@@ -20,8 +20,8 @@ I am a Computer Science Engineering student focused on building scalable backend
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | C++, JavaScript (ES6+) |
-| **Frontend** | React.js, HTML5, CSS3, Tailwind CSS |
+| **Languages** | C++, JavaScript (ES6+), Bash |
+| **Frontend** | React.js, HTML5, CSS3, |
 | **Backend** | Node.js, Express.js, RESTful APIs |
 | **Databases** | PostgreSQL, MongoDB |
 | **Tools & DevOps** | Git, GitHub, Linux, Bash, Postman, VS Code |
